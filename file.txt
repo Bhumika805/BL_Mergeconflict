@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Line1: Initial content
 
 Line 2: Final merged changeLine3: change from branch2
 line4: change from main
+=======
+Line3: change from branch2
+>>>>>>> branch2
