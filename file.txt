@@ -1,1 +1,2 @@
 Line1: Initial content
+Line2: change from branch1
