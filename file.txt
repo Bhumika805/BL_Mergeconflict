@@ -1,3 +1,4 @@
 Line1: Initial content
 
 Line 2: Final merged changeLine3: change from branch2
+line4: change from main
